@@ -1,5 +1,5 @@
 - 👋 Hola Soy Gonzalo Jáuregui
-- 👀 Estoy interesado en progemación en Machine Learning y En IoT
+- 👀 Estoy interesado en programación en Machine Learning y En IoT
 - 🌱 Ultimamente me estoy enpecializando en react Native
 - 💞️ Me gustaría colaborar en desarrollos que involucren Hardware y Sistemas predictivos inteligentes
 - 📫 Me pueden escribir a mi mail gonzalo.jauregui96@gmail.com o a mi numero personal 1171122857
